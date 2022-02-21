@@ -18,6 +18,8 @@ dependencies:
   flutter_modular: ^4.4.0+1
   localization: ^2.1.0
   dio: ^4.0.4
+  flutter_svg: ^1.0.3
+  intl: ^0.17.0
 
 dev_dependencies:
   flutter_test:
@@ -39,6 +41,7 @@ flutter:
     - assets/images/scale_icon.png
     - assets/images/search_icon.png
     - assets/images/weight_icon.png
+    - assets/images/pokeball.png
   
   fonts:
     - family: Poppins
